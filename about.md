@@ -18,11 +18,18 @@ I hold a background in Econometrics and Economics, fields that blend quantitativ
   
 ## My Skillset
 
-- **Programming:** Highly proficient in Python, R and SQL, skilled in data manipulation, visualization, and machine learning implementation.
+- **Programming**: Highly proficient in programming languages like R, Python, and SQL, essential for tasks ranging from data manipulation to machine learning implementation.
 
-- **Predictive Analytics:** Proficient in both traditional and state-of-the-art for forecasting and predictive modeling, leveraging machine learning algorithms and probabilistic methods to deliver insightful and reliable predictions.
-  
-**Econometric Modeling**: Comprehensive understanding of econometric methods, including Bayesian econometrics,time-series forecasting, regression analysis, and hypothesis testing.
+- **Data Manipulation and Analysis**: Skilled in using libraries like Pandas for data manipulation and well-versed in data analysis techniques from descriptive statistics to complex statistical tests.
+
+- **Machine Learning**: Strong understanding of a wide array of machine learning algorithms, from classical methods to modern machine learning techniques, supported by proficiency in libraries like scikit-learn, TensorFlow, and PyTorch.
+
+- **Data Wrangling and Cleaning**: Experienced in preprocessing and cleaning data to prepare it for analysis or machine learning models, including handling missing data, feature transformation, and other data manipulation tasks.
+
+- **Data Visualization**: Proficient in data visualization tools and libraries like Matplotlib and Seaborn, able to clearly and effectively communicate findings through visual means.
+
+- **Statistical Modeling/Econometrics**: Specialized in Bayesian econometrics and time-series forecasting, with a comprehensive understanding of hypothesis testing, regression analysis, and probabilistic models.
+
 
 
 [Back to Home](./)
