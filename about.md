@@ -9,23 +9,21 @@ I hold a background in Econometrics and Economics, fields that blend quantitativ
 
 ## What I Do
 
-- **Econometric Modeling:** Using statistical techniques to analyze economic data and predict future trends.
-  
-- **Data Science:** Extracting valuable insights from large and complex datasets, combining my understanding of economics to inform strategy and decision-making.
-  
 - **Machine Learning:** Building predictive models to solve real-world problems, from forecasting to classification tasks.
 
+- **Data Science:** Extracting valuable insights from large and complex datasets, combining my understanding of economics to inform strategy and decision-making.
+
+- **Econometric Modeling:** Using statistical techniques to analyze economic data and predict future trends.
+  
+  
 ## My Skillset
 
-- **Programming:** Proficient in R, Python, and SQL.
-  
-- **Statistical Analysis:** Expertise in hypothesis testing, regression analysis, and time-series modeling.
-  
-- **Machine Learning Algorithms:** Skilled in supervised and unsupervised learning techniques, including regression models, decision trees, and neural networks.
-  
-- **Economic Theory:** Well-versed in macro and microeconomics, with a focus on market dynamics and behavioral economics.
+- **Programming:** Highly proficient in Python, R and SQL, skilled in data manipulation, visualization, and machine learning implementation.
 
-I believe that the integration of Data Science, Machine Learning, and Econometrics offers a comprehensive approach to understanding and solving the challenges of today’s data-rich world.
+- **Predictive Analytics:** Proficient in both traditional and state-of-the-art for forecasting and predictive modeling, leveraging machine learning algorithms and probabilistic methods to deliver insightful and reliable predictions.
+  
+**Econometric Modeling**: Comprehensive understanding of econometric methods, including Bayesian econometrics,time-series forecasting, regression analysis, and hypothesis testing.
+
 
 [Back to Home](./)
 
